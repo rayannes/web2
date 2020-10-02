@@ -10,6 +10,6 @@ app.get('/autor/detalhe/:nome',  autorRouter.detalheProduto)
 
 
   
-app.listen(3000, () =>{//testando
-	console.log('funcionando')
+app.listen(3000, () =>{//porta
+	
 })
